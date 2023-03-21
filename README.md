@@ -9,7 +9,7 @@ Sends the resized image back to the channel where the original message was poste
 ## Installation
 To use this bot, you will need to have Python 3 installed on your computer. You will also need to create a Discord bot and obtain a bot token. You can follow the instructions in the Discord documentation to create a bot and get a token.
 
-Clone this repository to your computer using git clone https://github.com/example/discord-image-resizing-bot.git
+Clone this repository to your computer https://github.com/Skinniez/DiscordTwitchResize
 Navigate to the cloned repository directory using cd discord-image-resizing-bot
 Create a virtual environment using python3 -m venv venv
 Activate the virtual environment using source venv/bin/activate (on Linux/Mac) or venv\Scripts\activate (on Windows)
